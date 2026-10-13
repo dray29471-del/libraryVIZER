@@ -32,7 +32,7 @@ local BaseURL = "https://raw.githubusercontent.com/deividcomsono/Obsidian/refs/h
 local CustomImageManager = {}
 local CustomImageManagerAssets = {
     TransparencyTexture = {
-        RobloxId = 139785960036434,
+        RobloxId = 116572205485457,
         Path = "Obsidian/assets/TransparencyTexture.png",
         URL = BaseURL .. "assets/TransparencyTexture.png",
 
